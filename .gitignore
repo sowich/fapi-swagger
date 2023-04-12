@@ -1,0 +1,5 @@
+.idea
+venv
+openapi_paths.yaml
+openapi_schemas.yaml
+__pycache__

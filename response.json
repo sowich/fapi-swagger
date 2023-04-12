@@ -1,0 +1,50 @@
+{
+    "success": true,
+    "data": [
+        {
+            "category": "Одежда\/Мужчинам\/Одежда больших размеров",
+            "revenue": 730405,
+            "sales": 120,
+            "products": 36,
+            "products_with_sales": 12,
+            "products_with_sales_percent": 33.33,
+            "avg_price": 5087.83,
+            "avg_price_with_sales": 423,
+            "sales_per_products_avg": 3,
+            "sales_per_products_with_sales_avg": 10,
+            "revenue_per_products_avg": 20289,
+            "revenue_per_products_with_sales_avg": 60867,
+            "suppliers": 2,
+            "suppliers_with_sales": 1,
+            "suppliers_with_sales_percent": 50,
+            "brands": 1,
+            "brands_with_sales": 1,
+            "brands_with_sales_percent": 100,
+            "avg_comments": 211.67,
+            "avg_rating": 4.8
+        },
+        {
+            "category": "Одежда\/Мужская одежда",
+            "revenue": 305670,
+            "sales": 61,
+            "products": 32,
+            "products_with_sales": 4,
+            "products_with_sales_percent": 12.5,
+            "avg_price": 4085.56,
+            "avg_price_with_sales": 1021,
+            "sales_per_products_avg": 1,
+            "sales_per_products_with_sales_avg": 15,
+            "revenue_per_products_avg": 9552,
+            "revenue_per_products_with_sales_avg": 76417,
+            "suppliers": 2,
+            "suppliers_with_sales": 1,
+            "suppliers_with_sales_percent": 50,
+            "brands": 1,
+            "brands_with_sales": 1,
+            "brands_with_sales_percent": 100,
+            "avg_comments": 328,
+            "avg_rating": 4.82
+        }
+    ],
+    "errors": []
+}
