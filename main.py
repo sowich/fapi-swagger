@@ -31,7 +31,7 @@ def save_openapi_yaml():
     data = app.openapi()
 
     with open("openapi_paths.yaml", "w") as file:
-        yaml.dump(data["paths"], file, allow_unicode=True)
+        yaml.dump(data["paths"], file, allow_unicode=True, sort_keys=False)
 
     with open("openapi_schemas.yaml", "w") as file:
-        yaml.dump(data["components"]["schemas"], file, allow_unicode=True)
+        yaml.dump(data["components"]["schemas"], file, allow_unicode=True, sort_keys=False)
